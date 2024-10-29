@@ -1,0 +1,10 @@
+---
+title: "CSS preview test"
+format:
+  html:
+    css: style.css
+---
+
+### This is an h3, it is red in the original stylesheet
+
+Hello hello hello
